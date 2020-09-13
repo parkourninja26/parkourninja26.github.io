@@ -1,0 +1,26 @@
+/* This CSS is in charge for the general styling of the HTMLs */
+
+body, html 
+{
+   margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+/* Sets all h3 to these attribute */
+h3 
+{
+  text-align: center;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+
+/* Sets all P to these attribute */
+p
+{
+  font-size: 14pt
+}
+
+/* Centers Images, Boxes and Texts */
+.center {text-align:center};

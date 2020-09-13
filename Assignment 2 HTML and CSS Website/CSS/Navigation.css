@@ -1,0 +1,34 @@
+/* This CSS File is in charge of organising the Navigation Bar */
+
+/* Create the Navigation Bar */
+.navigationbar 
+{
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Customisation for the button*/
+.navigationbar a 
+{
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+  
+  /* Change button color when mouse hovers */
+.navigationbar a:hover 
+{
+  background-color: #ddd;
+  color: black;
+}
+  
+  /* Changes button to blue signalling the page the user is in*/
+.navigationbar a.active 
+{
+  background-color: #2e5090;
+  color: white;
+ }

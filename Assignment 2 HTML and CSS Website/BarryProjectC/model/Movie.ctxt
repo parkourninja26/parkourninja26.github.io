@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Movie
+comment0.text=\r\n\ class\ Movie\r\n
+comment1.params=id\ name\ cost
+comment1.target=Movie(int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ cost()
+comment3.params=
+comment3.target=java.lang.String\ name()
+numComments=4

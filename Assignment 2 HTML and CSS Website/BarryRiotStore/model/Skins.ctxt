@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Skins
+comment1.params=
+comment1.target=Skins()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=skin
+comment2.target=void\ add(Skin)
+comment3.params=name\ cost
+comment3.target=void\ add(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ addSkin()
+comment5.params=
+comment5.target=void\ showPrice()
+comment6.params=cost
+comment6.target=void\ setPrice(int)
+comment7.params=
+comment7.target=int\ returnPrice()
+comment8.params=name
+comment8.target=void\ setName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getName()
+numComments=11

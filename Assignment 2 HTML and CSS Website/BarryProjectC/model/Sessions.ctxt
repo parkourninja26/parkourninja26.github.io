@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Sessions
+comment0.text=\r\n\ class\ Sessions\ \r\n
+comment1.params=
+comment1.target=Sessions()
+comment2.params=session
+comment2.target=void\ add(Session)
+comment3.params=id\ gold\ regular
+comment3.target=void\ sellTickets(int,\ int,\ int)
+comment4.params=
+comment4.target=double\ cost()
+comment5.params=id
+comment5.target=Session\ find(int)
+comment6.params=id\ gold\ regular
+comment6.target=boolean\ canSell(int,\ int,\ int)
+comment7.params=movie\ theatre\ name\ time\ gold\ regular
+comment7.target=void\ setupSession(Movie,\ Theatre,\ java.lang.String,\ int,\ double,\ double)
+comment8.params=time
+comment8.target=java.lang.String\ name(int)
+comment9.params=
+comment9.target=double\ income()
+numComments=10

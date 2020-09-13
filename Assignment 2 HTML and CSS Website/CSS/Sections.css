@@ -1,0 +1,26 @@
+/* This CSS is in charge of creating sections in order to split tables and images */
+
+
+/* Sets up the row for the boxes */
+.row::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Creates the columns */
+.column 
+{
+  float: left;
+  width: 45%;
+  margin-bottom: 16px;
+  padding: 10px 25px;
+}
+
+/* Creates the Shadows to better define the columns */
+.shadows 
+{
+  box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.35);
+  padding: 10px 10px;
+}

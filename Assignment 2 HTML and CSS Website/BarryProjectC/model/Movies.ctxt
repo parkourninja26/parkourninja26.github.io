@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Movies
+comment0.text=\r\n\ class\ Movies\ \r\n
+comment1.params=
+comment1.target=Movies()
+comment2.params=movie
+comment2.target=void\ add(Movie)
+comment3.params=name\ cost
+comment3.target=void\ add(java.lang.String,\ double)
+comment4.params=id
+comment4.target=Movie\ find(int)
+numComments=5

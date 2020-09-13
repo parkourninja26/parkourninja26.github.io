@@ -1,0 +1,31 @@
+/* This CSS is in charge of displaying the main heading of each page */
+
+/* Creates the Heading*/
+.heading {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+  }
+
+/* White background */
+.whiteborder 
+{
+  background-color: #fff;
+  color: #282e34;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 5px;
+}
+
+/* Dark background */
+.darkborder 
+{
+  background-color: #282E34;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 5px;
+}

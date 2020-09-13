@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Theatres
+comment0.text=\r\n\ class\ Theatres\ \r\n
+comment1.params=
+comment1.target=Theatres()
+comment2.params=theatre
+comment2.target=void\ add(Theatre)
+comment3.params=name\ gold\ regular
+comment3.target=void\ add(java.lang.String,\ int,\ int)
+comment4.params=id
+comment4.target=Theatre\ find(int)
+numComments=5

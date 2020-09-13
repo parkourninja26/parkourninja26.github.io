@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Updater
+comment1.params=o
+comment1.target=void\ attach(MyObserver)
+comment2.params=o
+comment2.target=void\ detach(MyObserver)
+comment3.params=
+comment3.target=void\ updateViews()
+numComments=4

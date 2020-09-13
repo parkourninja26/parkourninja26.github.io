@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CustomPanel
+comment0.text=\r\n\ This\ class\ can\ be\ used\ as\ a\ parent\ class\ for\ your\ panels\r\n\ -\ helps\ reduce\ duplication\ of\ code\r\n
+comment1.params=
+comment1.target=CustomPanel()
+comment2.params=title
+comment2.target=void\ addTitle(java.lang.String)
+comment3.params=label\ field
+comment3.target=void\ addPair(java.lang.String,\ javax.swing.JComponent)
+comment4.params=label\ listener
+comment4.target=void\ addButton(java.lang.String,\ java.awt.event.ActionListener)
+comment5.params=msg
+comment5.target=void\ sayConfirm(java.lang.String)
+comment6.params=msg
+comment6.target=void\ sayError(java.lang.String)
+comment7.params=pane
+comment7.target=void\ addScroll(javax.swing.JComponent)
+comment8.params=
+comment8.target=void\ update()
+numComments=9
